@@ -24,6 +24,7 @@ https://github.com/user-attachments/assets/7fe295f9-366a-4fae-8e23-854b52d0fcc5
 - **🖼️ 资产库系统**: 强大的角色柜 (Character Bay) 和 场景库 (Location Library)，支持上传参考图并自动分析，确保视觉连续性。
 - **🎨 智能画布 (Creative Canvas)**: 非线性的无限画布工作流，支持剪切、复制、粘贴以及多视图（Multi-view）网格生成。
 - **🎥 动态转换**: 支持将静态分镜一键转化为动态视频 (Image-to-Video)，探索镜头运动与节奏。
+- **🎙️ 智能配音 (TTS)**: 集成语音合成功能，支持为分镜脚本生成高质量配音，并自动同步至时间轴。
 - **📂 项目管理**: 完善的项目与分区管理系统，支持多项目切换与持久化存储。
 - **🌐 多供应商支持**: 兼容 Google Gemini, OpenAI-style Proxies, 以及 Antigravity 代理。
 
@@ -35,6 +36,7 @@ https://github.com/user-attachments/assets/7fe295f9-366a-4fae-8e23-854b52d0fcc5
 
 - **Node.js** (推荐 v18 或更高版本)
 - **npm** 或 **yarn**
+- **TTS 服务** (可选, 用于配音功能，推荐本地部署 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) 或类似服务)
 
 ### 安装步骤
 
@@ -55,6 +57,7 @@ https://github.com/user-attachments/assets/7fe295f9-366a-4fae-8e23-854b52d0fcc5
      cp .env.example .env
      ```
    - 在 `.env` 中填入你的 Gemini API Key 或代理配置。
+  - 如需使用配音功能，请在设置面板中配置 **TTS 地址** (默认为 `http://127.0.0.1:7860`)。
 
 4. **启动开发服务器**:
    ```bash
