@@ -7,6 +7,11 @@
 
 https://github.com/yww520/DirectorDeck-OSS/raw/main/assets/demo.mp4
 
+
+
+https://github.com/user-attachments/assets/7fe295f9-366a-4fae-8e23-854b52d0fcc5
+
+
 **DirectorDeck-OSS** 是一款专为导演、分镜师和视觉创作者打造的专业级电影视觉化工具。它利用先进的 AI 模型，将文字构思快速转化为高质量的电影分镜。
 
 这款工具的核心在于打破技术障碍，让创作回归故事本身。它不仅是一个绘图工具，更是一个智能的视觉助手。
