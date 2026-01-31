@@ -4,9 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📺 项目演示
-<p align="center">
-  <video src="./assets/demo.mp4" width="100%" controls autoplay loop muted></video>
-</p>
+
+https://github.com/yww520/DirectorDeck-OSS/raw/main/assets/demo.mp4
 
 **DirectorDeck-OSS** 是一款专为导演、分镜师和视觉创作者打造的专业级电影视觉化工具。它利用先进的 AI 模型，将文字构思快速转化为高质量的电影分镜。
 
