@@ -3,6 +3,11 @@
 ![Status](https://img.shields.io/badge/Status-Open--Source-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+## 📺 项目演示
+<p align="center">
+  <video src="./assets/demo.mp4" width="100%" controls autoplay loop muted></video>
+</p>
+
 **DirectorDeck-OSS** 是一款专为导演、分镜师和视觉创作者打造的专业级电影视觉化工具。它利用先进的 AI 模型，将文字构思快速转化为高质量的电影分镜。
 
 这款工具的核心在于打破技术障碍，让创作回归故事本身。它不仅是一个绘图工具，更是一个智能的视觉助手。
