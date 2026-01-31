@@ -92,7 +92,9 @@
 
 ## 🌟 鸣谢
 
-感谢所有开发者对开源社区的贡献，特别鸣谢 Google DeepMind 提供的强大模型支持。
+本项目基于开源项目 [Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent) 进行二次开发，感谢原作者提供的灵感与基础架构。
+
+同时也感谢所有开发者对开源社区的贡献，特别鸣谢 Google DeepMind 提供的强大模型支持。
 
 ---
 <p align="center">Made with ❤️ for the Creative Community</p>
