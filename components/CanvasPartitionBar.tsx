@@ -17,7 +17,8 @@ export const CanvasPartitionBar: React.FC<CanvasPartitionBarProps> = ({
     onSelectGroup,
     onCreateGroup,
     onDeleteGroup,
-    onRenameGroup
+    onRenameGroup,
+    defaultGroupName
 }) => {
     const [isCreating, setIsCreating] = useState(false);
     const [newName, setNewName] = useState('');
